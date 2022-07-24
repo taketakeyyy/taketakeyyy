@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🐾[taketakeyyy.github.io](https://taketakeyyy.github.io/)
+
 [![](https://raw.githubusercontent.com/taketakeyyy/taketakeyyy/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
